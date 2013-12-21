@@ -2,7 +2,6 @@
 layout:    post
 title:     "Welcome to DeadDork 0.0"
 date:      2013-12-20 17:26:51
-published: false
 categories: jekyll update
 ---
 
