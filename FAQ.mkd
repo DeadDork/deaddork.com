@@ -1,6 +1,17 @@
 Frequently Asked Questions
 ==========================
 
+Why did the site look so nice, but then get ugly all of a sudden?
+-----------------------------------------------------------------
+
+The hope is that it will be pretty again some day. If and when it does, I will delete this question & answer.
+
+What I'd done initially was pretty much copy [Atmos' site](atmos.org) and fiddle with things I didn't understand til it kinda looked OK.
+
+That's no way to build *anything*.
+
+This time around, I'm starting from the vanilla site in the [Jekyll quick-start guide](http://jekyllrb.com/docs/quickstart/), [configured for GitHub Pages](http://jekyllrb.com/docs/github-pages/), and building it up (and blogging about the experience) until I'm happy with it.
+
 What is DeadDork's origin story?
 --------------------------------
 
