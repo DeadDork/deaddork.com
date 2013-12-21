@@ -12,6 +12,8 @@ That's no way to build *anything*.
 
 This time around, I'm starting from the vanilla site in the [Jekyll quick-start guide](http://jekyllrb.com/docs/quickstart/), [configured for GitHub Pages](http://jekyllrb.com/docs/github-pages/), and building it up (and blogging about the experience) until I'm happy with it.
 
+Just as an FYI: the last "pretty" commit was 8a602a0baefdd41aece85d1998453846a0920f1f
+
 What is DeadDork's origin story?
 --------------------------------
 
