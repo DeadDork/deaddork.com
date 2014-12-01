@@ -1,0 +1,34 @@
+# General Jekyll Config
+pygments: true
+url: http://example.com
+lsi: false
+exclude: [CNAME, .git, .gitignore, LICENSE, README.md, themes]
+
+# Theme customization - please change from the defaults!
+theme:
+  # Color for links, etc
+  highlight_color: '#3498db'
+
+  # Profile links on bottom; leave blank to ignore
+  social:
+    github: DeadDork
+    #bitbucket: philipj
+    #hacker_news: swanson
+    #stackexchange: 348619
+    #stackoverflow: 348619
+    twitter: _DeadDork
+    facebook: DeadDork
+    #tumblr: animalygifs
+    linkedin: DeadDork
+    gplus: +NimrodOmer
+
+  # "Hi, I'm _______"
+  name: Nimrod Omer
+  email: test@example.com
+  tagline: "weak opinions, strongly held"
+
+  # Google Analytics key, leave blank to ignore
+  google_analytics_key: 
+
+  # Toggle "Postings are my own" disclaimer in footer
+  show_disclaimer: true
